@@ -49,9 +49,7 @@ Note: This assignment focuses on demonstrating your understanding of Java and OO
 
 | Pattern  | Usage                                |
 | -------- | ------------------------------------ |
-| Factory  | Book object creation                 |
-| Strategy | Recommendation logic (extensible)    |
-| Observer | Reservation / notification model     |
+| Factory  | Book object creation                 | 
 | Facade   | Simplified entry point to the system |
 
 
